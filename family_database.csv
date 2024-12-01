@@ -1,0 +1,8 @@
+first_name,last_name,age,education,gender,number_of_kids,marital_status,country_address,alife
+Gius," Ejeagbasi",66,first school,male,5,married,Null,false
+Felicia,Ejeagbasi,90,class 4,female,5,married,Null,false
+Osita,Ejeagbasi,70,masters in engineering,male,3,married,Nigeria,true
+Charity,Ejeagbasi,10,Null,female,0,unmarried,Null,false
+Kate," Ejeagbasi",63,university certificate,female,1,married,Nigeria,ture
+Victor,Ejeagbasi,61,degree in banking,male,3,married,Houston Texas,true
+Julie,Ejeagbasi,56,degree in computer science,female,2,married,Germany,true
